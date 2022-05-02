@@ -1,0 +1,12 @@
+#data preprocessing (egg)
+
+#< Rule >
+# Using Python
+# Mention the version of the dependency package you used
+# Use Jupyter Notebook to check the output
+# Submit your results to show photos and results
+# If you use open code, mention the site
+
+# Deadline 2022.05.13
+# 1. Apply voice activity detection (VAD)
+# 2. Average/Maximum Amplitude Comparison of Frames

@@ -1,0 +1,13 @@
+#data preprocessing (egg)
+
+#< Rule >
+# Using Python
+# Mention the version of the dependency package you used
+# Use Jupyter Notebook to check the output
+# Submit your results to show photos and results
+# If you use open code, mention the site
+
+# Deadline 2022.05.20
+# 1. Normalization applied
+# 2. Apply whitening
+# 3. PCA - Application of Principle Component Analysis

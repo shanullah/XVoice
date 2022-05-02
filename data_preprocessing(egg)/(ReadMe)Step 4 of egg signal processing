@@ -11,3 +11,4 @@
 # 1. SNR Securing (EQ, Filter)
 # 2. volume normalization
 # 3. Least Mean Square and frequency band division(0.5kHz below and 2.8kHz above)
+# 4. Anti-Aliasing

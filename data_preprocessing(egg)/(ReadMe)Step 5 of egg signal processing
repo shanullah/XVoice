@@ -11,3 +11,4 @@
 # 1. Normalization applied
 # 2. Apply whitening
 # 3. PCA - Application of Principle Component Analysis
+# 4. DPCM (Differential Pulse Code Modulation)

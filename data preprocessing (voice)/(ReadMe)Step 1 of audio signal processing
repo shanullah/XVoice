@@ -12,3 +12,6 @@
 # 1. Raw voice signal noise cancellation
 # 2. Check power noise and frequency band (Hint: Check through delay)
 # 3. Apply the most appropriate filter (Hint: Remove loop voltage)
+
+# expected outcome
+# plot graph before and after application

@@ -1,0 +1,13 @@
+#data preprocessing (voice)
+
+#< Rule >
+# Using Python
+# Mention the version of the dependency package you used
+# Use Jupyter Notebook to check the output
+# Submit your results to show photos and results
+# If you use open code, mention the site
+
+# Deadline 2022.05.25
+# 1. Equalization and visualization through log-spectrum
+# 2. Separation of harmonic peaks through Cepstrum
+# 3. Finding the interval between harmonic peaks of a spectrum

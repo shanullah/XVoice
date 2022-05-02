@@ -8,7 +8,7 @@
 # Submit your results to show photos and results
 # If you use open code, mention the site
 
-# Deadline 2022.05.13
+# Deadline 2022.05.06
 # 1. Raw voice signal noise cancellation
 # 2. Check power noise and frequency band (Hint: Check through delay)
 # 3. Apply the most appropriate filter (Hint: Remove loop voltage)
